@@ -8,5 +8,6 @@ namespace TestGit3
 {
     public class Class1
     {
+
     }
 }
